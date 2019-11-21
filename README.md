@@ -9,4 +9,4 @@ Note that `osfclient` is no longer an active project (see this [comment](https:/
 ```
 
 ## Disclaimer
-This notebook was created for the [UBC Brain Circuits Cluster](https://braincircuits.centreforbrainhealth.ca/) and placed in this repository so that it can be of help to other users. It was written independently of the developers and maintainers of osfclient.
+This notebook was created for the [UBC Brain Circuits Cluster](https://braincircuits.centreforbrainhealth.ca/) and placed in this repository so that it may be of help to other users. It was written independently of the developers and maintainers of osfclient.
