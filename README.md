@@ -4,7 +4,7 @@ This Jupyter notebook is a tutorial on [osfclient](https://github.com/osfclient/
 ## Installation
 Note that `osfclient` is no longer an active project (see this [comment](https://github.com/osfclient/osfclient/issues/169#issuecomment-524444154) from a former maintainer) so I created a fork of the repository to fix bugs and make improvements. This tutorial uses my version of osfclient, which can be installed with the following command:
 
-```console
+```
   pip install git+https://github.com/ubcbraincircuits/osfclient
 ```
 
