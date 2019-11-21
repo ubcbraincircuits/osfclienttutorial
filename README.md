@@ -1,4 +1,4 @@
-# OSF Client Tutorial
+# osfclient Tutorial
 This Jupyter notebook is a tutorial on [osfclient](https://github.com/osfclient/osfclient), a Python library and command-line program for implementing simple actions on [Open Science Framework (OSF)](https://osf.io/), such as uploading and downloading files.
 
 ## Installation
